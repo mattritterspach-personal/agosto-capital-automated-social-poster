@@ -1,0 +1,78 @@
+{
+  "brand": "Agosto Studio",
+  "link_in_bio": "https://agostocapital.io/digital-products",
+  "default_platforms": ["instagram", "facebook", "tiktok"],
+  "media_dir": "digital-products/social",
+  "posts": [
+    {
+      "id": "post1-launch",
+      "pillar": "brand/offer",
+      "calendar_day": 1,
+      "image": "post1-launch.png",
+      "video": "post1-launch.mp4",
+      "hook": "It's live.",
+      "caption": "It's live. Agosto Studio is here.\n\nFive no-fluff guides to help you buy back your life: your time, your peace, your status, your confidence, and your direction.\n\nNo 300 pages of theory. Each one is a do-it-with-me system with worksheets and a plan you can actually run this week.\n\nStart with the one you need most, or grab all five in the bundle and save over 50%.\n\nWhich one do you need first: time, peace, status, confidence, or direction? Tell me below.\n\nLink in bio to shop them all.",
+      "hashtags": ["#selfimprovement", "#personalgrowth", "#productivity", "#digitaldownloads", "#buybackyourtime"]
+    },
+    {
+      "id": "post2-time",
+      "pillar": "teach",
+      "calendar_day": 2,
+      "image": "post2-time.png",
+      "video": null,
+      "hook": "You don't have a time problem.",
+      "caption": "You don't have a time problem. You have an undefended calendar.\n\nEvery open hour gets claimed by whoever asks first: a meeting, a message, a \"quick favor.\" None of it is evil. Together it's a slow leak that drains your whole week.\n\nThe fix isn't more willpower or a new app. It's a system that decides things in advance, so you stop re-deciding the same low-value tasks 40 times a day.\n\nThat system is the whole point of Buy Back Your Hours. Time audit, the Four D's, your Buy-Back Rate, and a 30-day plan to get 10+ hours a week back.\n\nSave this so you remember it at 9pm when the inbox is still open.",
+      "hashtags": ["#timemanagement", "#productivityhacks", "#worklifebalance", "#founders", "#getmoredone"]
+    },
+    {
+      "id": "post3-direction",
+      "pillar": "pain",
+      "calendar_day": 3,
+      "image": "post3-direction.png",
+      "video": null,
+      "hook": "You're not lazy.",
+      "caption": "You're not lazy. You just don't have a direction yet.\n\nYou can't be motivated toward a blank. Most \"I have no discipline\" actually means \"I have no decided next step.\" Get the direction first and the motivation follows it.\n\nStart Here: Direction Map is a do-it-in-one-sitting workbook. Four questions to find your path, a 3-paths grid to choose it, and a 90-day plan to actually move on it. About 20 minutes to go from foggy to one clear sentence.\n\nEverything's in our bio. Start with the one that's been on your mind.",
+      "hashtags": ["#findyourpurpose", "#careerchange", "#motivationdaily", "#personaldevelopment", "#clarity"]
+    },
+    {
+      "id": "post4-peace",
+      "pillar": "teach",
+      "calendar_day": 6,
+      "image": "post4-peace.png",
+      "video": null,
+      "hook": "Your kids aren't the problem.",
+      "caption": "Your kids aren't the problem. Your house just has no rhythm yet.\n\nMeltdowns, mornings that feel like a fire drill, the constant low-grade noise. It's rarely the kids. It's that the day has no predictable shape, so every small thing becomes a negotiation.\n\nCalm House, Clear Mind is the rhythm: simple routines, a 10-minute reset, and 3-sentence scripts that stop a meltdown without yelling. A calmer home and a clearer head, on purpose.\n\nSave this for the 5pm meltdown. Link in bio when you're ready for the whole system.",
+      "hashtags": ["#momlife", "#parentingtips", "#gentleparenting", "#calmhome", "#overwhelmedmom"]
+    },
+    {
+      "id": "post5-status",
+      "pillar": "teach",
+      "calendar_day": 5,
+      "image": "post5-status.png",
+      "video": null,
+      "hook": "Status isn't loud.",
+      "caption": "Status isn't loud. The highest-status move in any room is restraint.\n\nThe guy trying hardest to look important almost never is. Real status is quiet: you don't over-explain, you don't chase the laugh, you don't need the room to react. Fit beats brand. Calm beats loud. Restraint beats flash.\n\nThe Status Playbook breaks down the silent signals, decoded and made practical, so respect comes to you instead of you reaching for it.\n\nFollow for more. Link in bio for the full playbook.",
+      "hashtags": ["#selfdevelopment", "#mensmindset", "#charisma", "#disciplineequalsfreedom", "#highvalueman"]
+    },
+    {
+      "id": "post6-confidence",
+      "pillar": "teach",
+      "calendar_day": 4,
+      "image": "post6-confidence.png",
+      "video": null,
+      "hook": "Confidence isn't a feeling.",
+      "caption": "Confidence isn't a feeling. It's evidence you collect.\n\nYou will not \"feel ready\" into confidence. You build it: small kept promises, reps that prove you can, and a way to shut up the inner critic that rewrites every win as luck.\n\nThe Confidence Reset is the system. Collect the evidence, run the 3-column trick on your self-talk, and walk in sure, on the days you feel it and the days you don't.\n\nIt starts in our bio. Build the evidence, one rep at a time.",
+      "hashtags": ["#confidence", "#selfworth", "#womenempowerment", "#personalgrowth", "#mindsetshift"]
+    },
+    {
+      "id": "post7-bundle",
+      "pillar": "offer",
+      "calendar_day": 9,
+      "image": "post7-bundle.png",
+      "video": null,
+      "hook": "5 guides. 1 mission.",
+      "caption": "5 guides. 1 mission: buy back your life.\n\nTime. Peace. Status. Confidence. Direction. The whole Agosto Studio library in one bundle, for $59 instead of $120. That's over 50% off, and it's yours to keep.\n\nIf you've been picking which problem to fix first, this is the \"fix all of it\" option. Instant download, do-it-with-me worksheets, a plan for each.\n\nLink in bio. Your future self is already annoyed you waited.",
+      "hashtags": ["#digitalproducts", "#selfimprovement", "#personalgrowth", "#investinyourself", "#bundle"]
+    }
+  ]
+}

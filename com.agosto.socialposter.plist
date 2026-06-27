@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.agosto.socialposter</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/bin/python3</string>
+        <string>agosto_run.py</string>
+        <string>--count</string>
+        <string>2</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/matthewritterspach/Documents/Claude/Projects/Small Business + AI Enablement/digital-products/social-poster</string>
+
+    <!-- Run once a day at 10:00am local. Edit Hour/Minute to taste, or duplicate
+         this dict inside an <array> to post at multiple times a day. -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>10</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <key>RunAtLoad</key>
+    <false/>
+
+    <key>StandardOutPath</key>
+    <string>/Users/matthewritterspach/Documents/Claude/Projects/Small Business + AI Enablement/digital-products/social-poster/posting.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/matthewritterspach/Documents/Claude/Projects/Small Business + AI Enablement/digital-products/social-poster/posting.log</string>
+</dict>
+</plist>
